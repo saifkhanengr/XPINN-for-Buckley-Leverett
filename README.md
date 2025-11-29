@@ -16,10 +16,4 @@ Cite as:
   journal={arXiv preprint arXiv:2511.13734},
   year={2025}
 }
-
-
-
-
-
-
-
+```
