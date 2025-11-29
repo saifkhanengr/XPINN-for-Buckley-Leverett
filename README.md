@@ -9,17 +9,17 @@ The accurate solution of nonlinear hyperbolic partial differential equations (PD
 
 Cite as:
 
+```bibtex
 @article{SaifXPINN2025,
-
   title={Extended Physics Informed Neural Network for Hyperbolic Two-Phase Flow in Porous Media},
-  
   author={Ur Rehman, Saif and Yousuf, Wajid},
-  
   journal={arXiv preprint arXiv:2511.13734},
-  
   year={2025}
-  
 }
+
+
+
+
 
 
 
