@@ -1,4 +1,4 @@
-# Extended Physics-Informed Neural Network (XPINN) for Hyperbolic Two-Phase Flow
+# Extended Physics-Informed Neural Network for Hyperbolic Two-Phase Flow in Porous Media
 
 ## Overview
 This repository provides the implementation of an Extended Physics-Informed Neural Network (XPINN) for solving the nonlinear Buckley–Leverett equation, which models immiscible two-phase flow in porous media.
