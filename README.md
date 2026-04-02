@@ -40,29 +40,28 @@ XPINN-for-Buckley-Leverett/
 
 Clone the repository:
 
-```git clone https://github.com/saifkhanengr/XPINN-for-Buckley-Leverett.git
+git clone https://github.com/saifkhanengr/XPINN-for-Buckley-Leverett.git
 
-cd XPINN-for-Buckley-Leverett ```
+cd XPINN-for-Buckley-Leverett 
 
 Install dependencies:
 
-``` pip install -r requirements.txt ```
+pip install -r requirements.txt 
 
 ## How to Run
 
 ### Option 1 (Recommended - Automated)
-```bash
+
 python run.py
-```
 
 ### Option 2 (Manual)
-```bash
+
 jupyter notebook
-```
+
 Then open:
-```
+
 XPINN_for_Buckley_Leverett.ipynb
-```
+
 and run all cells.
 
 ## Reproducibility
