@@ -39,9 +39,11 @@ XPINN-for-Buckley-Leverett/
 
 Clone the repository:
 git clone https://github.com/saifkhanengr/XPINN-for-Buckley-Leverett.git
+
 cd XPINN-for-Buckley-Leverett
 
 Install dependencies:
+
 pip install -r requirements.txt
 
 ## How to Run
