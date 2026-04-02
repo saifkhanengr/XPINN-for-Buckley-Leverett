@@ -32,6 +32,7 @@ XPINN-for-Buckley-Leverett/
 ├── XPINN_for_Buckley_Leverett.ipynb
 ├── run.py
 ├── requirements.txt
+├── LICENSE.txt
 ├── README.md
 ```
 
