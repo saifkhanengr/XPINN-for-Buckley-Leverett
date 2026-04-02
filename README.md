@@ -30,27 +30,39 @@ The XPINN framework improves learning by:
 ```
 XPINN-for-Buckley-Leverett/
 ├── XPINN_for_Buckley_Leverett.ipynb
-└── README.md
+├── run.py
+├── requirements.txt
+├── README.md
 ```
 
+## Installation
 
-## Requirements
-pip install numpy matplotlib tensorflow jupyter
-
-## How to Run
+Clone the repository:
 git clone https://github.com/saifkhanengr/XPINN-for-Buckley-Leverett.git
-
 cd XPINN-for-Buckley-Leverett
 
+Install dependencies:
+pip install -r requirements.txt
+
+## How to Run
+
+### Option 1 (Recommended - Automated)
+python run.py
+
+### Option 2 (Manual)
 jupyter notebook
-
-Open:
-XPINN_for_Buckley_Leverett.ipynb
-
-Run all cells.
+Open XPINN_for_Buckley_Leverett.ipynb and run all cells.
 
 ## Reproducibility
-All results can be reproduced using this repository by running the notebook without modification.
+All results reported in the paper can be reproduced by running:
+python run.py
+No modification to the code is required.
+
+## Expected Output
+Running the code will reproduce:
+- XPINN solution for the Buckley–Leverett problem
+- Shock front behavior and saturation profiles
+- Results corresponding to the figures (2 to 12) presented in the paper
 
 ## Computer Code Availability
 The code developed for this study is publicly available:
@@ -77,4 +89,5 @@ Cite as:
 ```
 
 ## License
-For academic and research use.
+This project is licensed under the MIT License.
+
